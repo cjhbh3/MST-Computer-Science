@@ -1,0 +1,22 @@
+Name: CJ Hess
+Section: Lecture 108
+Date: January 26, 2020
+
+1. Algorithm for modulo division of integer a and b
+	a. If a is greater than or equal to b: subtract b from a and set that result to a. 
+	b. If a is less than b, do not subtract.
+	c. If a is now less than b, that is the modulo.
+	d. If it is not, repeat steps a and b.
+2. Algorithm for measuring with 8 in. string
+	a. Unfold entire length of string across the item
+	b. If the string goes longer than the item, fold the string in half to where the length of the string is halved.
+	c. If the string is shorter than the item, mark the ending spot and reposition length of string starting at the ending
+		point. Mark current length of the string (whether unchanged of 8 or if it has been halved by all) down.
+	d. If the string is the exact length of the item, the length is the length of the string currently in inches.
+	e. Repeat steps b-d until the item has been fully measured.
+3. Algorithm for deciding how to get to class
+	a. If weather condition and traffic conditions are okay, moped
+	b. If weather condition is bad and traffiic conditions are okay,
+		tank
+	c. If weather condition is okay and traffic is bad, walk
+	d. If weather condition is bad and traffic is bad, tank
