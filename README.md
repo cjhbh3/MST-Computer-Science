@@ -4,4 +4,4 @@
 
 These are *most* of my projects from my time at Missouri S&T. 
 
-- CJ Hess
+Owner: CJ Hess
