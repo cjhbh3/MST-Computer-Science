@@ -1,1 +1,2 @@
-# MST-Computer-Science
+# Missouri University of Science and Technology
+# Computer Science Courses
